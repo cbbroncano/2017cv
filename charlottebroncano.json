@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Charlotte Margaret Broncano",
+    "label": "Android Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfQAAAAJGRhODJlZmY4LWRhMDUtNDc4Zi1hY2YyLTMwNTdlNmZmNjIyYw.jpg",
+    "email": "cbbroncano@rogomi.com",
+    "phone": "+639175195299"
+  },
+  "education": [{
+    "institution": "University of the Philippines, Diliman",
+    "course": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2010",
+    "endDate": "2014"
+  }],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies":[{
+        "name": "Java",
+        "number_of_years": 2
+      }, {
+        "name": "Android",
+        "number_of_years": 2
+      }]
+    },{
+      "category": "Version Control",
+      "technologies":[{
+        "name": "Git",
+        "number_of_years": 2
+      }]
+    },{
+      "category": "Integrated Development Environment",
+      "technologies":[{
+        "name": "Android Studio",
+        "number_of_years": 2
+      }]
+    }
+  ],
+  "work": [{
+    "company": "Rogomi, Inc.",
+    "position": "Team Lead / Android Developer",
+    "startDate": "September 2015",
+    "endDate": "Present",
+    "summary": "Responsible for the entire app's development lifecycle from concept stage up to delivery and post-launch support. Communicates with project managers and clients to determine overall technical direction of projects assigned to the team.",
+    "highlights": [],
+    "projects":[
+      {
+        "name":"Coca-Cola Happy Shopmate SDK",
+        "description":"An SDK that enables consumer to gather their data from the Coca-Cola Happy Shopmate application and manipulate these data on their own mobile applications.",
+        "role":"Android Developer",
+        "startDate":"2017",
+        "endDate":"Present",
+        "technologies":"Android"
+      },{
+        "name":"Technoprobe",
+        "description":"An application designed for tablets for various types of users that lets them track eTag states, move eTags from one state to another and update eTag information.",
+        "role":"Android Developer",
+        "startDate":"2016",
+        "endDate":"2016",
+        "technologies":"Android"
+      },{
+        "name":"Book it",
+        "description":"Simple yet powerful booking software for service providers.",
+        "role":"Android Lead Developer",
+        "startDate":"2016",
+        "endDate":"2016",
+        "technologies":"Android"
+      },{
+        "name":"WHS Monitor",
+        "description":"WHS Monitor is a modular, cloud-based Work Health and Safety compliance management system which enables organisations to simply and effectively comply with their Work Health and Safety obligations.",
+        "role":"Team Lead",
+        "startDate":"2016",
+        "endDate":"2016",
+        "technologies":"Android"
+      },{
+        "name":"Plant Queue",
+        "description":"Plant Queue is a project by Ateneo that captures plant via Android's phone camera, send its data to the cloud, then determines the current status of the plant.",
+        "role":"Team Lead",
+        "startDate":"2016",
+        "endDate":"2016",
+        "technologies":"Android"
+      },{
+        "name":"PediaLink",
+        "description":"Pedialink is an automated baby book by Unilab that unites parents and doctors in caring for children.",
+        "role":"Android Lead Developer",
+        "startDate":"2015",
+        "endDate":"2016",
+        "technologies":"Android"
+      },{
+        "name":"Cignal Front Seat",
+        "description":"Cignal Front Seat is an exclusive live streaming app for Cignal TV's postpaid subscribers in the Philippines.",
+        "role":"Android Developer",
+        "startDate":"2015",
+        "endDate":"2015",
+        "technologies":"Android"
+      },{
+        "name":"Sports 5 Dunk",
+        "description":"Similar to Cignal Front Seat, Dunk is a live streaming app of PBA games.",
+        "role":"Android Developer",
+        "startDate":"2015",
+        "endDate":"2015",
+        "technologies":"Android"
+      },{
+        "name":"WeDiLo",
+        "description":"A social recommendation app designed to help you discover places based on recommendations from people you can trust. WeDiLo is a short name for 'Went there. Did that. Loved it.' You will be able to discover your friends favorite places and you can share yours, too.",
+        "role":"Android Developer",
+        "startDate":"2015",
+        "endDate":"2015",
+        "technologies":"Android"
+      }
+    ]
+  },{
+    "company": "Samsung R&D Institute of the Philippines",
+    "position": "Software Engineer",
+    "startDate": "June 2014",
+    "endDate": "September 2015",
+    "summary": "Provides software-level support for Australia and New Zealand's Android projects and product releases, with focus on Homescreen development, Soft Input Panel (SIP), and Google and third party applications. Creates Technical Documents for Android and Tizen SDKs.",
+    "summary": "Provides software-level support for Australia and New Zealand's Android projects and product releases, with focus on Homescreen development, Soft Input Panel (SIP), and Google and third party applications. Creates Technical Documents for Android and Tizen SDKs.",
+    "highlights": [],
+    "projects":[{
+      "name":"Samsung KNOX Calendar",
+      "description":"Calendar application for a suite of mobile enterprise security solution.",
+      "startDate":"2015",
+      "endDate":"2015",
+      "technologies":"Android"
+    },{
+      "name":"Car Dashboard Mobile Application",
+      "description":"Created a dashboard mobile application for a well-known motor-company.",
+      "role":"Main Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Android"
+    }]
+  }],
+  "certification": []
+}
