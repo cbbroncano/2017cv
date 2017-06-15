@@ -144,13 +144,15 @@
       "description":"Calendar application for a suite of mobile enterprise security solution.",
       "startDate":"2015",
       "endDate":"2015",
+      "months":"(4 months)",
       "technologies":"Android"
     },{
       "name":"Car Dashboard Mobile Application",
       "description":"Created a dashboard mobile application for a well-known motor-company.",
       "role":"Main Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015",
+      "months":"(1 month)",
       "technologies":"Android"
     }]
   }],
