@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Charlotte Margaret Broncano",
-    "label": "Android Developer",
+    "label": "Android Mobile Developer",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfQAAAAJGRhODJlZmY4LWRhMDUtNDc4Zi1hY2YyLTMwNTdlNmZmNjIyYw.jpg",
     "email": "cbbroncano@rogomi.com",
     "phone": "+639175195299"
@@ -15,26 +15,15 @@
   }],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Core Competencies",
       "technologies":[{
         "name": "Java",
-        "number_of_years": 2
+        "number_of_years": 3
       }, {
-        "name": "Android",
-        "number_of_years": 2
+        "name": "Android SDK",
+        "number_of_years": 3
       }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
-        "name": "Git",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Integrated Development Environment",
-      "technologies":[{
-        "name": "Android Studio",
-        "number_of_years": 2
-      }]
+    }]
     }
   ],
   "work": [{
@@ -46,11 +35,28 @@
     "highlights": [],
     "projects":[
       {
+        "name":"C2Go",
+        "description":"Rehash of Cignal Ferrari project",
+        "role":"Android Developer",
+        "startDate":"2017",
+        "endDate":"Present",
+        "months":"(1 month)",
+        "technologies":"Android"
+      },{
+        "name":"Zukii Drop",
+        "description":"An SDK that searches locations and returns estimates of shipment costs.",
+        "role":"Android Developer",
+        "startDate":"2017",
+        "endDate":"Present",
+        "months":"(1 month)",
+        "technologies":"Android"
+      },{
         "name":"Coca-Cola Happy Shopmate SDK",
         "description":"An SDK that enables consumer to gather their data from the Coca-Cola Happy Shopmate application and manipulate these data on their own mobile applications.",
         "role":"Android Developer",
         "startDate":"2017",
         "endDate":"Present",
+        "months":"(3 months)",
         "technologies":"Android"
       },{
         "name":"Technoprobe",
@@ -58,6 +64,7 @@
         "role":"Android Developer",
         "startDate":"2016",
         "endDate":"2016",
+        "months":"(8 months)",
         "technologies":"Android"
       },{
         "name":"Book it",
@@ -65,6 +72,15 @@
         "role":"Android Lead Developer",
         "startDate":"2016",
         "endDate":"2016",
+        "months":"(8 months)",
+        "technologies":"Android"
+      },{
+        "name":"Gift it (Gava)",
+        "description":"A crowdfunding app where users can offer and receive gifts from friends and family.",
+        "role":"Android Lead Developer",
+        "startDate":"2016",
+        "endDate":"2016",
+        "months":"(6 months)",
         "technologies":"Android"
       },{
         "name":"WHS Monitor",
@@ -72,6 +88,7 @@
         "role":"Team Lead",
         "startDate":"2016",
         "endDate":"2016",
+        "months":"(8 months)",
         "technologies":"Android"
       },{
         "name":"Plant Queue",
@@ -79,6 +96,7 @@
         "role":"Team Lead",
         "startDate":"2016",
         "endDate":"2016",
+        "months":"(3 months)",
         "technologies":"Android"
       },{
         "name":"PediaLink",
@@ -86,6 +104,7 @@
         "role":"Android Lead Developer",
         "startDate":"2015",
         "endDate":"2016",
+        "months":"(8 months)",
         "technologies":"Android"
       },{
         "name":"Cignal Front Seat",
@@ -93,6 +112,7 @@
         "role":"Android Developer",
         "startDate":"2015",
         "endDate":"2015",
+        "months":"(2 months)",
         "technologies":"Android"
       },{
         "name":"Sports 5 Dunk",
@@ -100,6 +120,7 @@
         "role":"Android Developer",
         "startDate":"2015",
         "endDate":"2015",
+        "months":"(2 months)",
         "technologies":"Android"
       },{
         "name":"WeDiLo",
@@ -107,6 +128,7 @@
         "role":"Android Developer",
         "startDate":"2015",
         "endDate":"2015",
+        "months":"(6 months)",
         "technologies":"Android"
       }
     ]
@@ -115,7 +137,6 @@
     "position": "Software Engineer",
     "startDate": "June 2014",
     "endDate": "September 2015",
-    "summary": "Provides software-level support for Australia and New Zealand's Android projects and product releases, with focus on Homescreen development, Soft Input Panel (SIP), and Google and third party applications. Creates Technical Documents for Android and Tizen SDKs.",
     "summary": "Provides software-level support for Australia and New Zealand's Android projects and product releases, with focus on Homescreen development, Soft Input Panel (SIP), and Google and third party applications. Creates Technical Documents for Android and Tizen SDKs.",
     "highlights": [],
     "projects":[{
